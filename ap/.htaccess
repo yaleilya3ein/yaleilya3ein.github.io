@@ -1,4 +1,4 @@
-AuthName "Please input password"
+AuthName "ap"
 AuthType Basic
 AuthUserFile yaleilya3ein.github.io/ap/.htpasswd
 AuthGroupFile /dev/null 
