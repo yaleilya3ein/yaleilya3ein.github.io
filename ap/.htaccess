@@ -1,5 +1,5 @@
 AuthName "Please input password"
 AuthType Basic
-AuthUserFile /customers/d/9/e/yaleilya3ein.github.io/httpd.www/ap/.htpasswd
+AuthUserFile yaleilya3ein.github.io/httpd.www/ap/.htpasswd
 AuthGroupFile /dev/null 
 require valid-user
