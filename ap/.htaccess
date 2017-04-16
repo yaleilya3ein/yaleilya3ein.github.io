@@ -1,5 +1,0 @@
-AuthName "Artist Profiles"
-AuthType Basic
-AuthUserFile /yaleilya3ein.github.io/ap/.htpasswd
-AuthGroupFile /dev/null 
-require valid-user
